@@ -1,3 +1,11 @@
+cmake-build-debug
+csv15-lib
+src/*_unittest.cc
+CMakeLists.txt
+README.md
+.idea
+!.idea/runConfigurations
+
 # Prerequisites
 *.d
 

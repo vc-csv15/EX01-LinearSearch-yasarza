@@ -1,7 +1,7 @@
 # Minimum version can be no higher than 3.5 as Ubuntu package management uses this version.
 cmake_minimum_required(VERSION 3.5)
 
-project (EX01-LinearSearch)
+project (EX01-LinearSearc)
 
 set(SOURCE_PREFIX "linearsearch")
 set(EXEC_NAME "LinearSearch")
